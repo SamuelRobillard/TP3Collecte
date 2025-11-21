@@ -25,6 +25,10 @@ Placez le fichier restaurants_features.csv dans le même dossier que le notebook
 ### Samuel
 
 ### Bradley
-
+Réalisation du graphique statique, incluant la préparation des données et la construction de la visualisation.
+Rédaction de l’analyse et de l’interprétation associées au graphique.
+Prise en charge de la remise du travail, avec vérification de la conformité aux exigences.
+Contribution à l’amélioration du README, afin d’en clarifier la structure et le contenu.
+Travail sur la clarté du notebook, notamment par l’ajout de cellules explicatives pour faciliter la compréhension du code.
 ### Alexandre
 La création d’un graphique interactif permettant d’afficher le top 10 des restaurants par ville selon le nombre d’avis positifs. L’utilisateur peut sélectionner une ville à partir d’un menu déroulant, et le graphique se met automatiquement à jour. L’analyse et l’interprétation du graphique ont également été rédigées, conformément aux exigences du PDF, afin de mettre en évidence les tendances observées et la signification des données.
