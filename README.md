@@ -24,6 +24,8 @@ Placez le fichier restaurants_features.csv dans le même dossier que le notebook
 
 ### Samuel
 
+La lecture des csv de base et la création du data frame personnalité. Cela inclue la sélection des données des csv, les traîtements des données et les jointures nécessaires. 
+
 ### Bradley
 Réalisation du graphique statique, incluant la préparation des données et la construction de la visualisation.
 Rédaction de l’analyse et de l’interprétation associées au graphique.
