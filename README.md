@@ -1,4 +1,11 @@
 # TP3 - Collecte et interprétation de données
+
+## Membres de l'équipe 
+
+- Bradley Leneus
+- Samuel Robillard
+- Alexandre Rusenov
+
 ## Description
 Ce travail pratique consiste en une étude de cas basée sur des données réelles de Yelp, une plateforme où les utilisateurs évaluent et commentent divers restaurants. L’objectif est de construire un dataset intégré en combinant plusieurs tables du jeu de données Yelp (restaurants, avis, utilisateurs, services, horaires, catégories, etc.) afin d’extraire des indicateurs clés tels que le ratio d’avis favorables, le nombre total d’avis, la popularité ou encore la présence de chaînes. 
 
